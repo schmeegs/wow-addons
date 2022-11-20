@@ -1,0 +1,6 @@
+## Interface: 30400
+## Title: Totem Boi
+## Notes: Will yell at you when you get out of range of your totems so you dont pull trash ;)
+## Author: Kid
+## Version: 0.0.1
+Totem_Boi.lua
